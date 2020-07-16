@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+C           59 mins             █████████████████████████   99.96 
+XML         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04
+```
 <!--END_SECTION:waka-->
