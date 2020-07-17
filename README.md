@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
 C           59 mins             █████████████████████████   99.96 
