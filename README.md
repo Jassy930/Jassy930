@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C           1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   42.71 
-Vue.js      51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 
-JavaScript  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 
-Python      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.23 
-Go          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.17
+Week #29 : July 13 - 18
+
+C           1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.99% 
+C++         1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07% 
+Vue.js      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
+Python      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+JavaScript  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.88%
 ```
 <!--END_SECTION:waka-->
