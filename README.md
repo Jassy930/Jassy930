@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C          18 hrs 27 mins  ██████████████████████░░░   90.12 % 
-Go         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+C          18 hrs 27 mins  ██████████████████████░░░   90.61 % 
+Go         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 Text       14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 Markdown   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Other      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
