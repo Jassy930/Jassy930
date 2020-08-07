@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C            5 hrs 48 mins   ████████████████████████░   99.38 % 
-Vue.js       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C    1 hr 8 mins     █████████████████████████   99.83 % 
+Go   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 <!--END_SECTION:waka-->
