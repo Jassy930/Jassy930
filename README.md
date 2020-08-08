@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C    1 hr 8 mins     █████████████████████████   99.83 % 
-Go   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
