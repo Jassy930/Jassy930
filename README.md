@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C        13 mins         █████████████████████████   100.00 % 
+C        8 mins          ██████████████████▓░░░░░░   74.03 % 
+C++      2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+XML      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+CMake    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
