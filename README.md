@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-Python   6 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.09 % 
-C++      3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-YAML     1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other    55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Bash     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Python     7 hrs 48 mins   ██████████████░░░░░░░░░░░   56.56 % 
+C++        3 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Other      1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Go         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
