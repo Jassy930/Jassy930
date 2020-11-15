@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C            5 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.05 % 
-JSON         1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-C++          1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-JavaScript   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Vue.js       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+JSON         1 hr 45 mins    ████████▒░░░░░░░░░░░░░░░░   33.87 % 
+C++          1 hr 27 mins    ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+JavaScript   41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Vue.js       23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 <!--END_SECTION:waka-->
