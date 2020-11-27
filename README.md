@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C        1 hr 36 mins    ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Vue.js   1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.95 % 
-XML      1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.95 % 
-C++      57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Python   33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+C        1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.12 % 
+XML      1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Vue.js   1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+C++      1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Other    36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 ```
 <!--END_SECTION:waka-->
