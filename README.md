@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-HTML     2 hrs 3 mins    ████████████▓░░░░░░░░░░░░   51.19 % 
-Python   47 mins         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Other    38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Go       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-XML      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Python   2 hrs 5 mins    ███████████░░░░░░░░░░░░░░   44.14 % 
+HTML     1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Other    42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+XML      22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Bash     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
