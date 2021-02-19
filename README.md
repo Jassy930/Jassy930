@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     2 hrs 5 mins    ███████████████████░░░░░░   75.79 % 
+Other      29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 % 
+CMake      10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 <!--END_SECTION:waka-->
