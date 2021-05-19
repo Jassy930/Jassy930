@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C++      28 hrs 12 mins  ███████████████████████▓░   94.33 % 
-Bash     46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Python   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-CMake    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Other    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+C++      34 hrs 16 mins  ███████████████████████▓░   94.27 % 
+Python   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Bash     41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+CMake    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Other    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
