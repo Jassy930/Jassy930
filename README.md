@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C++     19 hrs 56 mins  ███████████████████▓░░░░░   78.90 % 
-CMake   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-YAML    1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Bash    51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Other   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+C++     13 hrs 45 mins  ██████████████████▒░░░░░░   73.51 % 
+CMake   1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+YAML    1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Bash    31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
