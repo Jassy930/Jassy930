@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-CMake      16 mins         ███████████░░░░░░░░░░░░░░   44.38 % 
-C          10 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Velocity   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Other      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
