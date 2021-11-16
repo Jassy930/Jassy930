@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/YouEclipse/steam-box"
-	"github.com/google/go-github"
+	"github.com/YouEclipse/steam-box/pkg/steambox"
+	"github.com/google/go-github/github"
 )
 
 func main() {
