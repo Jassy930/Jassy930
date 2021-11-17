@@ -46,7 +46,6 @@ func main() {
 	
 	markdownFile := "README.md"
 	updateGist := true
-	updateMarkdown := true
 
 	box := steambox.NewBox(steamAPIKey, ghUsername, ghToken)
 
