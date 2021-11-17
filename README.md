@@ -26,7 +26,6 @@ CMake        1 hr 21 mins    ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-<!-- steam-box start -->
-<script src="https://gist.github.com/Jassy930/3602b6dec597f0f0b5031a17696d22ad.js"></script>
-<!-- steam-box end -->
+ <!-- steam-box start -->
+ <!-- steam-box end -->
+ 
