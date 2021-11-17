@@ -100,7 +100,7 @@ func (b *Box) GetPlayTime(ctx context.Context, steamID uint64, multiLined bool, 
 func (b *Box) GetRecentGames(ctx context.Context, steamID uint64, multiLined bool) ([]string, error) {
 	params := &steam.GetRecentlyPlayedGamesParams{
 		SteamID: steamID,
-		Count:   5,
+		Count:   10,
 	}
 
 	gameRet, err := b.steam.IPlayerService.GetRecentlyPlayedGames(ctx, params)
