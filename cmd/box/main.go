@@ -44,18 +44,9 @@ func main() {
 		}
 	}
 	
-	updateOption := os.Getenv("UPDATE_OPTION") // options for update: GIST (Gist only), MARKDOWN (README only), GIST_AND_MARKDOWN (Gist and README)
-	markdownFile := os.Getenv("MARKDOWN_FILE") // the markdown filename (e.g. MYFILE.md)
-
-	var updateGist, updateMarkdown bool
-	// if updateOption == "MARKDOWN" {
-		// updateMarkdown = true
-	// } else if updateOption == "GIST_AND_MARKDOWN" {
-	updateGist = true
-	updateMarkdown = true
-	// } else {
-		// updateGist = true
-	// }
+	markdownFile := "README.md"
+	updateGist := true
+	updateMarkdown := true
 
 	box := steambox.NewBox(steamAPIKey, ghUsername, ghToken)
 
