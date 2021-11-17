@@ -48,14 +48,14 @@ func main() {
 	markdownFile := os.Getenv("MARKDOWN_FILE") // the markdown filename (e.g. MYFILE.md)
 
 	var updateGist, updateMarkdown bool
-	if updateOption == "MARKDOWN" {
-		updateMarkdown = true
-	} else if updateOption == "GIST_AND_MARKDOWN" {
-		updateGist = true
-		updateMarkdown = true
-	} else {
-		updateGist = true
-	}
+	// if updateOption == "MARKDOWN" {
+		// updateMarkdown = true
+	// } else if updateOption == "GIST_AND_MARKDOWN" {
+	updateGist = true
+	updateMarkdown = true
+	// } else {
+		// updateGist = true
+	// }
 
 	box := steambox.NewBox(steamAPIKey, ghUsername, ghToken)
 
