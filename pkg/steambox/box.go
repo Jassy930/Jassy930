@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	steam "github.com/Jassy930/steam-go/pkg"
+	steam "github.com/YouEclipse/steam-go/pkg"
 	"github.com/google/go-github/github"
 	"github.com/mattn/go-runewidth"
 )
