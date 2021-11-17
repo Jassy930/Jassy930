@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	steam "github.com/YouEclipse/steam-go/pkg"
+	steam "github.com/Jassy930/steam-go/pkg"
 	"github.com/google/go-github/github"
 	"github.com/mattn/go-runewidth"
 )
@@ -111,7 +111,7 @@ func (b *Box) GetRecentGames(ctx context.Context, steamID uint64, multiLined boo
 	var max = 0
 
 	for _, game := range gameRet.Games {
-		if max >= 5 {
+		if max >= 10 {
 			break
 		}
 
