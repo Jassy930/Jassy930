@@ -72,7 +72,7 @@ func (b *Box) GetPlayTime(ctx context.Context, steamID uint64, multiLined bool, 
 	sort.Slice(gameRet.Games, func(i, j int) bool {
 		return gameRet.Games[i].PlaytimeForever > gameRet.Games[j].PlaytimeForever
 	})
-	fmt.Println(len(gameRet.Games))
+	
 	for _, game := range gameRet.Games {
 		if max >= 10 {
 			break
