@@ -34,6 +34,11 @@ CMake        1 hr 21 mins    ██░░░░░░░░░░░░░░░
 ⚔️ Dota 2                            🕘 315 hrs 14 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
 🎮 Dragon Cliff 龙崖                🕘 160 hrs 43 mins
+🎮 Assassin's Creed Odyssey         🕘 143 hrs 13 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
+🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
+🎮 Monster Hunter: World            🕘 83 hrs 28 mins
+🎮 DARK SOULS™ III                  🕘 80 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
