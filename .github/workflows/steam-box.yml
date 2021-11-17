@@ -36,4 +36,4 @@ jobs:
       run:  go env -w GO111MODULE=auto && go get -d -v ./... && go run ./cmd/box/main.go
 
     - name: Update-repo
-      run:  git add . && git commit -m "update steam-box" && git push
+      run:  git config user.name github-actions && git config user.email github-actions@github.com && git add . && git commit -m "update steam-box" && git push
