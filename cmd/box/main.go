@@ -88,7 +88,7 @@ func main() {
 		}
 	}
 
-	if updateMarkdown && markdownFile != "" {
+	if markdownFile != "" {
 		title := filename
 		if updateGist {
 			title = fmt.Sprintf(`#### <a href="https://gist.github.com/%s" target="_blank">%s</a>`, gistID, title)
