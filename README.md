@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   28.99 % 
-Vue.js       4 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
-JSON         3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Python       1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-XML          1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JavaScript   4 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+JSON         3 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 % 
+Vue.js       2 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Python       1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+CMake        1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 <!--END_SECTION:waka-->
 
