@@ -29,7 +29,7 @@ XML          1 hr 5 mins     █▓░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/3602b6dec597f0f0b5031a17696d22ad" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1160 hrs 41 mins
+🔫 Counter-Strike: Global Offensive 🕘 1160 hrs 44 mins
 🎮 Realm Grinder                    🕘 317 hrs 38 mins
 ⚔️ Dota 2                            🕘 315 hrs 14 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
