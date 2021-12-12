@@ -29,7 +29,7 @@ Vue.js   37 mins         █░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/3602b6dec597f0f0b5031a17696d22ad" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1161 hrs 34 mins
+🔫 Counter-Strike: Global Offensive 🕘 1162 hrs 4 mins
 🎮 Realm Grinder                    🕘 317 hrs 38 mins
 ⚔️ Dota 2                            🕘 315 hrs 14 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
