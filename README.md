@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 ```text
-C++          9 hrs 56 mins   ██████████████████▓░░░░░░   74.51 % 
-CMake        1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Other        1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JavaScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-C            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+C++          11 hrs 32 mins  █████████████████▓░░░░░░░   70.34 % 
+CMake        1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Other        1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+JavaScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
