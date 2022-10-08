@@ -19,8 +19,7 @@ My wakatime overview here
 <!--START_SECTION:waka-->
 
 ```text
-Properties   3 hrs 29 mins   ████████████████████████▓   98.05 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
