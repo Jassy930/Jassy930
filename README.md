@@ -19,9 +19,8 @@ My wakatime overview here
 <!--START_SECTION:waka-->
 
 ```text
-Properties   1 hr 31 mins    ████████████████████████░   95.47 %
-Java         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Properties   50 mins         ██████████████░░░░░░░░░░░   56.48 %
+Other        23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
 ```
 
 <!--END_SECTION:waka-->
