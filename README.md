@@ -19,8 +19,8 @@ My wakatime overview here
 <!--START_SECTION:waka-->
 
 ```text
-Properties   50 mins         ██████████████░░░░░░░░░░░   56.48 %
-Other        23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+Properties   4 hrs           █████████████████████▒░░░   85.93 %
+Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
