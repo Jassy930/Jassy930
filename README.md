@@ -19,7 +19,7 @@ My wakatime overview here
 <!--START_SECTION:waka-->
 
 ```text
-Properties   1 hr 19 mins    █████████████████████████   100.00 %
+Properties   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
