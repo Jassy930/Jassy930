@@ -36,7 +36,7 @@ No activity tracked
 🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
 🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
 🎮 Monster Hunter: World            🕘 83 hrs 28 mins
-🎮 DARK SOULS™ III                  🕘 80 hrs 36 mins
+🎮 DARK SOULS™ III                  🕘 80 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
