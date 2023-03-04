@@ -36,7 +36,7 @@ No activity tracked
 🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
 🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
 🎮 Monster Hunter: World            🕘 83 hrs 28 mins
-🎮 Slay the Spire                   🕘 81 hrs 30 mins
+🎮 Slay the Spire                   🕘 83 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
