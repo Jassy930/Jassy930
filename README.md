@@ -34,7 +34,7 @@ No activity tracked
 🎮 Dragon Cliff 龙崖                🕘 160 hrs 43 mins
 🎮 Assassin's Creed Odyssey         🕘 143 hrs 13 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
-🎮 Slay the Spire                   🕘 106 hrs 19 mins
+🎮 Slay the Spire                   🕘 106 hrs 55 mins
 🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
 🎮 Monster Hunter: World            🕘 83 hrs 28 mins
 ```
