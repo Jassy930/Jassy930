@@ -35,8 +35,8 @@ No activity tracked
 🎮 Assassin's Creed Odyssey         🕘 143 hrs 13 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
 🎮 Slay the Spire                   🕘 123 hrs 51 mins
+🎮 Vampire Survivors                🕘 84 hrs 12 mins
 🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
-🎮 Monster Hunter: World            🕘 83 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
