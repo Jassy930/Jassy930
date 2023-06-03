@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My wakatime overview here
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
