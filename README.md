@@ -27,14 +27,14 @@ No activity tracked
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/3602b6dec597f0f0b5031a17696d22ad" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1164 hrs 8 mins
+🔫 Counter-Strike: Global Offensive 🕘 1164 hrs 19 mins
 🎮 Realm Grinder                    🕘 317 hrs 38 mins
 ⚔️ Dota 2                            🕘 315 hrs 14 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
 🎮 Dragon Cliff 龙崖                🕘 160 hrs 43 mins
 🎮 Assassin's Creed Odyssey         🕘 143 hrs 13 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
-🎮 Slay the Spire                   🕘 123 hrs 51 mins
+🎮 Slay the Spire                   🕘 123 hrs 52 mins
 🎮 Vampire Survivors                🕘 91 hrs 5 mins
 🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
 ```
