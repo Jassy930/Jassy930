@@ -29,7 +29,7 @@ No activity tracked
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1164 hrs 20 mins
 🎮 Realm Grinder                    🕘 317 hrs 38 mins
-⚔️ Dota 2                            🕘 315 hrs 14 mins
+⚔️ Dota 2                            🕘 315 hrs 19 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
 🎮 Dragon Cliff 龙崖                🕘 160 hrs 43 mins
 🎮 Assassin's Creed Odyssey         🕘 143 hrs 13 mins
