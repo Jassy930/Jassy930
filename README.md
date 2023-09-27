@@ -27,7 +27,7 @@ No activity tracked
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/3602b6dec597f0f0b5031a17696d22ad" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1164 hrs 20 mins
+🔫 Counter-Strike 2                 🕘 1164 hrs 20 mins
 🎮 Realm Grinder                    🕘 317 hrs 38 mins
 ⚔️ Dota 2                            🕘 315 hrs 46 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
