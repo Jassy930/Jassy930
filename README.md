@@ -27,7 +27,7 @@ No activity tracked
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/3602b6dec597f0f0b5031a17696d22ad" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1164 hrs 20 mins
+🔫 Counter-Strike 2                 🕘 1164 hrs 23 mins
 🎮 Realm Grinder                    🕘 317 hrs 38 mins
 ⚔️ Dota 2                            🕘 315 hrs 46 mins
 🎮 Clicker Heroes                   🕘 266 hrs 0 mins
@@ -35,7 +35,7 @@ No activity tracked
 🎮 Assassin's Creed Odyssey         🕘 143 hrs 13 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 129 hrs 43 mins
 🎮 Slay the Spire                   🕘 123 hrs 55 mins
-🎮 Vampire Survivors                🕘 91 hrs 18 mins
+🎮 Vampire Survivors                🕘 91 hrs 28 mins
 🎮 The Binding of Isaac: Rebirth    🕘 83 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
