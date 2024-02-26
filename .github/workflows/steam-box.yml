@@ -10,7 +10,6 @@ on:
   schedule:
     - cron: "0 * * * *"
     
-
 jobs:
 
   build:
@@ -18,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 3602b6dec597f0f0b5031a17696d22ad
+          GIST_ID: 8bf56353bcb3a8e798b55b546b9619cf
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           STEAM_ID: ${{ secrets.STEAM_ID }}
     steps:
@@ -33,7 +32,4 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Update-gist
-      run:  go env -w GO111MODULE=auto && go get -d -v ./... && go run ./cmd/box/main.go
-
-    - name: Update-repo
-      run:  git config user.name github-actions && git config user.email github-actions@github.com && date > .update && git add . && git commit -m "update steam-box" && git push
+      run:  go run ./cmd/box/main.go
