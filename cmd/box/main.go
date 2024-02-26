@@ -44,8 +44,8 @@ func main() {
 		}
 	}
 	
-	updateOption := os.Getenv("UPDATE_OPTION") // options for update: GIST (Gist only), MARKDOWN (README only), GIST_AND_MARKDOWN (Gist and README)
-	markdownFile := os.Getenv("MARKDOWN_FILE") // the markdown filename (e.g. MYFILE.md)
+	updateOption := "GIST_AND_MARKDOWN" // options for update: GIST (Gist only), MARKDOWN (README only), GIST_AND_MARKDOWN (Gist and README)
+	markdownFile := "README.md" // the markdown filename (e.g. MYFILE.md)
 
 	var updateGist, updateMarkdown bool
 	if updateOption == "MARKDOWN" {
